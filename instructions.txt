@@ -2,7 +2,7 @@ CHALLENGE:
 
 1.  Create a folder on the desktop.  Open it up in VSCode, and then start the Vite app, creating a folder called 'frontend'.
 
-    Within the 'frontend' directory, create the following folders:
+    Within the 'src' directory, create the following folders:
     
     components
     pages (Create subfolers 'Home', 'Login', 'SignUp');
