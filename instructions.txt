@@ -13,10 +13,6 @@ CHALLENGE:
 2. Create functions that render their respected names within each subfolder of the 'pages' folder.  Ensure that they are
    exported.  Render the 'Home' component to the page.
 
-3. Go through the process of installing tailwind CSS.  When working correctly, the font should slightly change.
-
-4. Use the CSS located in this file to get started (USE IT BECAUSE WE ARE GOING WITH TAILWIND)
-
 5. Install 'react-router-dom' in the 'frontend' directory.  Check and make sure that the it was installed inside of the 
    'package.json' file when finished
 
