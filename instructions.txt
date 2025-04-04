@@ -1,6 +1,6 @@
 CHALLENGE:
 
-1.  Create a folder on the desktop.  Change directory into it and create the 'backend' folder and the 'frontend folder'.
+1.  Create a folder on the desktop.  Change directory into it and create a folder called 'frontend'.
 
     Within the 'frontend' directory, create the following folders:
     
