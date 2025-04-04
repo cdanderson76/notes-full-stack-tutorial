@@ -8,8 +8,6 @@ CHALLENGE:
     pages (Create subfolers 'Home', 'Login', 'SignUp');
     utils
 
-    add '.env' to the 'gitignore' file
-
 2. Create functions that render their respected names within each subfolder of the 'pages' folder.  Ensure that they are
    exported.  Render the 'Home' component to the page.
 
